@@ -1,0 +1,17 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.logoText {
+  font-family: "Pacifico", cursive;
+  user-select: none;
+}
+
+h2 {
+  user-select: none;
+}
+
+.logoNav{
+    width: 10%;
+    height: 10%;;
+}
